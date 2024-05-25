@@ -7,6 +7,8 @@
 - List -> Lists all the files and directories in the FS(works as unix's 'ls' command)
 - Get -> Gets or fetches a specific file from the FS into the current working directory. 
 
+# Compiling and Running
+
 > Compile the programs by running "make" in the directory
 
  - use ./fat32 [volume name] [function: info/list/get] [path of a file to retrieve(for get only)], 
